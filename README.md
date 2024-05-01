@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @alkimifox
-- 👀 I’m interested in music, automation, cryptography, physics, philosophy, & philology
-- 🌱 I’m currently learning to play guitar
-- 💞️ I’m looking to collaborate on music, AI automation, game design, film production, literature, anything
-- 📫 How to reach me - Alkimi@Fox.Art
-- 😄 Pronouns: describe numbers & phenotypes, which are outwardly apparent and unique. I don't tell people what words to use, but I will explain the rules of the english language. 
-- ⚡ Fun fact: the word 'fact' can be seen as a 'category F act'; an 'act' of the past, the 'Foundation' of consensus reality. An 'act' is an instance of an 'art' by which reality is 'artificed'
+- 👀 I’m interested in ... information
+- 🌱 I’m currently learning ... and I will continue learning
+- 💞️ I’m looking to collaborate on ... teams of two or more
+- 📫 How to reach me ... seek and you shall find
+- 😄 Pronouns: ... are a part of speech related to phenotypes
+- ⚡ Fun fact: ... the words 'fact' and 'act' both derive from the root word 'art'
+                Ergo, 'fact' can be interpreted to mean: a 'formation', 'action', 'artifice', or 'artifact' in the tapestry of space & time,
+                Caused to be a reality by one or more (f)ormer (f)orces of (act)ions that preceded it; a construct that exists, as described, in reality.
 
 <!---
 alkimifox/alkimifox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
